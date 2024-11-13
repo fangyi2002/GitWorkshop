@@ -1,2 +1,5 @@
 title: Fangyi's Website
 description: This is Fangyi's first website
+theme: minima 
+plugins:
+-jekyll-remote-theme
